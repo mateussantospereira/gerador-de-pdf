@@ -1,0 +1,20 @@
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(144, 34, 34);
+}
+
+p, button {
+    font-size: 17px;
+}
+
+button {
+    background-color: rgb(96, 86, 86);
+    padding: 1vh 1vw;
+    font-weight: bold;
+    color: white;
+    border: solid 1px;
+}
